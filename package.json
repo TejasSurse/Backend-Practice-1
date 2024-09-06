@@ -1,6 +1,7 @@
 {	
 	"author": "Tejas Surse",
 	"name": "fcc-learn-npm-package-json",
+	"description" : "My Backend Practice",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
