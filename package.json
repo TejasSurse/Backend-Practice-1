@@ -2,8 +2,11 @@
 	"author": "Tejas Surse",
 	"name": "fcc-learn-npm-package-json",
 	"description" : "My Backend Practice",
+	"keywords": ["freecodecamp", "tejas", "backend Practice"],
 	"dependencies": {
+		"@freecodecamp/example": "1.2.13", 
 		"express": "^4.14.0"
+		
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,5 +15,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"license": "MIT",
+	"version": "1.2.0"
+	
 }
